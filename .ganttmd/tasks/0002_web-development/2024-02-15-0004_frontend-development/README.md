@@ -1,6 +1,6 @@
 ---
 title: Frontend React Application
-status: Active
+status: Review
 output: ''
 assignee: Frontend Developer
 reviewer: UI/UX Designer
